@@ -17,5 +17,5 @@
 - Implementering
     - Løsninger med programmering
     - Gjenbrukbar kode
-    - Innhente, analysere og presentere data
+    - [Innhente, analysere og presentere data](./implementering/presentere-data.md)
     - [Vern mot kjøretidsfeil og logiske feil i programmer](./implementering/feilhaandtering.md)
