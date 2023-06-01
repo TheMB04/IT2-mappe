@@ -9,11 +9,12 @@ I IT2 lærer vi om to forskjellige måter å presentere data på, benlig ved teg
 For å tegne grafer i Python kan vi bruke biblioteket `matplotlib`.
 
 > Installere matplotlib: `pip install matplotlib`
-> Importere matplotlib: `import matplotlib.pyplot as plt`
 
 Tegne enkel graf med egne inputs:
 
 ```python
+import matplotlib.pyplot as plt #importerer matplotlib
+
 x = [0, 1, 2, 3, 4, 5]
 y = [0, 2, 4, 6, 8, 10]
 
